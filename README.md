@@ -3,7 +3,11 @@
 We will be making a 2D topdown game in Unity.
 
 #### Week 1
-    To Be Completed!
+ Create a project outline for what we want do to with our project install Unity and learn how to use tools that provide in the Unity to start on our project
+
+Nauy: Animate the player movement animations characters include walking and attking Left/Right/Back/Front
+
+Noah : working on Player movement Script and learn how to connect animation to the player script 
   
 #### Week 2
     To Be Completed!
