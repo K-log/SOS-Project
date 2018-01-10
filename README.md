@@ -13,6 +13,10 @@ This is our project's weekly journal.
   Noah: working on Player movement Script and learn how to connect animation to the player script 
   
   Frist problem we stuck with is how to connect the player movement animation with each other and set them to link with the anystate for the script later without using the Entry that just can link and automatic run for testing 
+  
+  Learned to create background and figure a way to add movement to the player allow it to move up down left right
+  next step gonna be try to connect movement and animation of the player and limit the movement in a specifit way to fit with the background map
+  
 
 ### Week 2
     To Be Completed!
