@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" type="text/scss" href="style.scss">
+</head> 
+
 # SOS-Project
 
  <ul>
