@@ -7,7 +7,7 @@ We will be making a 2D topdown game in Unity.
 
 Nauy: Animate the player movement animations characters include walking and attking Left/Right/Back/Front
 
-Noah : working on Player movement Script and learn how to connect animation to the player script 
+Noah: working on Player movement Script and learn how to connect animation to the player script 
   
 #### Week 2
     To Be Completed!
