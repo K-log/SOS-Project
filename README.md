@@ -3,6 +3,8 @@ Nauy and Noah's SOS Project
 
 We will be making a 2D topdown game in Unity.
 
+This is our project's weekly journal.
+
 ### Week 1
   Create a project outline for what we want do to with our project install Unity and learn how to use tools that provide in the Unity to start on our project
 
