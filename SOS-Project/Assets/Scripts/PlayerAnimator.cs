@@ -10,7 +10,7 @@ public class PlayerAnimator : MonoBehaviour {
     void Start()
     {
         anim = GetComponent<Animator>();
-
+        Debug.Log("Started");
     }
 
     // Update is called once per frame
@@ -18,6 +18,7 @@ public class PlayerAnimator : MonoBehaviour {
     {
         if (Input.GetKey(KeyCode.W)) // Move the player up
         {
+            Debug.Log("w");
             anim.SetBool("WalkUp", true);
             anim.SetBool("WalkDown", false);
             anim.SetBool("WalkLeft", false);
@@ -42,7 +43,7 @@ public class PlayerAnimator : MonoBehaviour {
 
         if (Input.GetKey(KeyCode.D)) // Move the player right
         {
-            anim.SetBool("WalkUp", true);
+            anim.SetBool("WalkUp", false);
             anim.SetBool("WalkDown", false);
             anim.SetBool("WalkLeft", false);
             anim.SetBool("WalkRight", true);
