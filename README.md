@@ -6,17 +6,17 @@ We will be making a 2D topdown game in Unity.
 This is our project's weekly journal.
 
 ### Week 1
-  Create a project outline for what we want do to with our project install Unity and learn how to use tools that provide in the Unity to start on our project
 
-  Nauy: Animate the player movement animations characters include walking and attking Left/Right/Back/Front
+  *Plan for the week:*
+  Create a project outline for what we want to do with our project. Install Unity and learn how to use the tools that are    provided in it to start on our project
 
-  Noah: working on Player movement Script and learn how to connect animation to the player script 
+  Nauy: Create the player movement animations which include include walking and attacking Left/Right/Back/Front.
+
+  Noah: Create the Player movement Script and learn how to control animation from the script. 
   
-  Frist problem we stuck with is how to connect the player movement animation with each other and set them to link with the anystate for the script later without using the Entry that just can link and automatic run for testing 
-  
-  Learned to create background and figure a way to add movement to the player allow it to move up down left right
-  next step gonna be try to connect movement and animation of the player and limit the movement in a specifit way to fit with the background map
-  
+  *Issues we have run into:*
+  - [ ] Controlling the player animation changes from the script and within the animation controller. 
+  - [ ] Creating a Tilemap/game map. This depends on if/what external software we use apart from unity and where we're at as far as art assets.  
 
 ### Week 2
     To Be Completed!
