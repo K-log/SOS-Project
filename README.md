@@ -21,9 +21,9 @@ This is our project's weekly journal.
   - [ ] Creating a Tilemap/game map. This depends on if/what external software we use apart from unity and where we're at as far as art assets.  
 
 ### Week 2
-  Nauy: Create the player movement animations which include include attacking Left/Right/Back/Front.
+  Nauy: player movement animations which include include attacking Left/Right/Back/Front.
 
-  Noah: Create the Player movement  and attacking Script pt.
+  Noah: Create the Player movement  and attacking Script.
   
   *Thing we have completed:*
   
