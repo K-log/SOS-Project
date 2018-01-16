@@ -24,9 +24,11 @@ This is our project's weekly journal.
   Nauy: Create the player movement animations which include include attacking Left/Right/Back/Front.
 
   Noah: Create the Player movement  and attacking Script pt.
+  
   *Thing we have completed:*
   
   *Issues we have run into:*
+  The animation working with the momement but it's bug with the animations of attacking  
   
 ### Week 3
     To Be Completed!
