@@ -17,8 +17,8 @@ This is our project's weekly journal.
   Create the player movement animation and Player movement Script that allow us to control the Player on keyboard
   
   *Issues we have run into:*
-  - [ ] Controlling the player animation changes from the script and within the animation controller. 
-  - [ ] Creating a Tilemap/game map. This depends on if/what external software we use apart from unity and where we're at as far as art assets.  
+  - [x ] Controlling the player animation changes from the script and within the animation controller. 
+  - [x] Creating a Tilemap/game map. This depends on if/what external software we use apart from unity and where we're at as far as art assets.  
 
 ### Week 2
   Nauy: player movement animations which include include attacking Left/Right/Back/Front.
@@ -26,9 +26,10 @@ This is our project's weekly journal.
   Noah: Create the Player movement  and attacking Script.
   
   *Thing we have completed:*
+  Controlling the player animation with moving and attacking connect with working script
   
   *Issues we have run into:*
-  The animation working with the momement but it's bug with the animations of attacking  
+  The animation working with the momement and attacking  but it's still have some delay time and switching between each animations
   
 ### Week 3
     To Be Completed!
