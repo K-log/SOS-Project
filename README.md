@@ -17,7 +17,7 @@ This is our project's weekly journal.
   Create the player movement animation and Player movement Script that allow us to control the Player on keyboard
   
   *Issues we have run into:*
-  - [x ] Controlling the player animation changes from the script and within the animation controller. 
+  - [x] Controlling the player animation changes from the script and within the animation controller. 
   - [x] Creating a Tilemap/game map. This depends on if/what external software we use apart from unity and where we're at as far as art assets.  
 
 ### Week 2
