@@ -17,8 +17,9 @@ public class PlayerAnimator : MonoBehaviour {
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
+        Debug.Log(facingDir);
         if (Input.GetKey(KeyCode.W)) // Move the player up
         {
             facingDir = 0;
@@ -31,8 +32,7 @@ public class PlayerAnimator : MonoBehaviour {
             anim.SetBool("AttackLeft", false);
             anim.SetBool("AttackRight", false);
         }
-
-        if (Input.GetKey(KeyCode.S)) // Move the player down
+        else if (Input.GetKey(KeyCode.S)) // Move the player down
         {
             facingDir = 1;
             anim.SetBool("WalkUp", false);
@@ -44,8 +44,7 @@ public class PlayerAnimator : MonoBehaviour {
             anim.SetBool("AttackLeft", false);
             anim.SetBool("AttackRight", false);
         }
-
-        if (Input.GetKey(KeyCode.A)) // Move the player left
+        else if (Input.GetKey(KeyCode.A)) // Move the player left
         {
             facingDir = 2;
             anim.SetBool("WalkUp", false);
@@ -57,8 +56,7 @@ public class PlayerAnimator : MonoBehaviour {
             anim.SetBool("AttackLeft", false);
             anim.SetBool("AttackRight", false);
         }
-
-        if (Input.GetKey(KeyCode.D)) // Move the player right
+        else if (Input.GetKey(KeyCode.D)) // Move the player right
         {
             facingDir = 3;
             anim.SetBool("WalkUp", false);
@@ -70,10 +68,23 @@ public class PlayerAnimator : MonoBehaviour {
             anim.SetBool("AttackLeft", false);
             anim.SetBool("AttackRight", false);
         }
+        else {
+            anim.SetBool("Idle", true);
+            anim.SetBool("WalkUp", false);
+            anim.SetBool("WalkDown", false);
+            anim.SetBool("WalkLeft", false);
+            anim.SetBool("WalkRight", false);
+            anim.SetBool("AttackUp", false);
+            anim.SetBool("AttackDown", false);
+            anim.SetBool("AttackLeft", false);
+            anim.SetBool("AttackRight", false);
+        }
+
 
 
         // Player attack animations
-        if (Input.GetKey(KeyCode.Space)) {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
             if ( facingDir == 0) // Attack UP
             {
                 anim.SetBool("AttackUp", true);
@@ -85,10 +96,8 @@ public class PlayerAnimator : MonoBehaviour {
                 anim.SetBool("WalkLeft", false);
                 anim.SetBool("WalkRight", false);
             }
-
-            if (facingDir == 1) // Attack DOWN
+            else if (facingDir == 1) // Attack DOWN
             {
-                Debug.Log("Attack Down");
                 anim.SetBool("AttackUp", false);
                 anim.SetBool("AttackDown", true);
                 anim.SetBool("AttackLeft", false);
@@ -98,8 +107,7 @@ public class PlayerAnimator : MonoBehaviour {
                 anim.SetBool("WalkLeft", false);
                 anim.SetBool("WalkRight", false);
             }
-
-            if (facingDir == 2) // Attack LEFT
+            else if (facingDir == 2) // Attack LEFT
             {
                 anim.SetBool("AttackUp", false);
                 anim.SetBool("AttackDown", false);
@@ -110,9 +118,9 @@ public class PlayerAnimator : MonoBehaviour {
                 anim.SetBool("WalkLeft", false);
                 anim.SetBool("WalkRight", false);
             }
-
-            if (facingDir == 3) // Attack right
+            else if (facingDir == 3) // Attack right
             {
+                Debug.Log("Attack Right");
                 anim.SetBool("AttackUp", false);
                 anim.SetBool("AttackDown", false);
                 anim.SetBool("AttackLeft", false);
@@ -122,7 +130,6 @@ public class PlayerAnimator : MonoBehaviour {
                 anim.SetBool("WalkLeft", false);
                 anim.SetBool("WalkRight", false);
             }
-
         }
     }
 }
