@@ -33,7 +33,14 @@
   The animation working with the momement and attacking  but it's still have some delay time and switching between each animations
   
 ### Week 3
-    To Be Completed!
+   Noah: Add title screen	Write script to make the title screen the same size regardless of the screen size		
+   Nauy: Add title screen	Write script to make the title screen link with other StartGame/Howtoplay/Quit/Credits	
+   
+   *Thing we have completed:*
+  success to link botton with different screen 
+  *Issues we have run into:*
+ obj and some funtion that will not allow when complite the code and understand of link different screen to other screen 
+  
 
 ### Week 4
     To Be Completed!
