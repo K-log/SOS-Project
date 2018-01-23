@@ -3,7 +3,7 @@
 - [Timeline](/timeline.md)
 - [Proposal](/proposal.md)
 - [Bibliography](/bibliography.md)
-
+-----
 
 
 Week 1 
