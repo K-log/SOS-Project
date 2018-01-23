@@ -144,3 +144,20 @@ add more into getkey for movement and attack
         }
 
        ...
+       
+       
+Week 3
+
+add script to make the title screen link with other StartGame/Howtoplay/Quit/Credits
+
+using UnityEngine.SceneManagement;
+
+public class ButtonManager : MonoBehaviour {
+
+    public void STARTGAME()
+    {
+        SceneManager.LoadScene(1); // for the start game 
+    }
+}
+
+
