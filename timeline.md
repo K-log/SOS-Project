@@ -14,3 +14,4 @@
 | Draw main Sprites      | Draw Spritesheets for the main character and one enemy                 | High     | Noah        |
 | Draw main tilesheet    | Draw the main TileSheet for the the start of our game                  | High     | Noah        |
 | Add title screen       | Write script to make the title screen the same size regardless of the screen size| High   | Noah
+| Add title screen       | Write script to make the title screen link with other StartGame/Howtoplay/Quit/Credits| High   | Nauy
