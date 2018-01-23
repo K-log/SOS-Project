@@ -8,4 +8,4 @@
 
 
 
-### Our proposal will go here once it is porperly formatted.
+### Our proposal will go here once it is properly formatted.
