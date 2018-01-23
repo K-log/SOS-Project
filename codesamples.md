@@ -2,8 +2,9 @@
 - [Journal](/journal.md)
 - [Timeline](/timeline.md)
 - [Proposal](/proposal.md)
+- [**Code Samples**](/codesamples.md)
 - [Bibliography](/bibliography.md)
------
+
 
 
 Week 1 
