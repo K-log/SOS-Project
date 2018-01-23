@@ -1,9 +1,10 @@
 - [Home](/README.md)
 - [Journal](/journal.md)
-- [Code Samples](/codesamples.md)
+- [**Timeline**](/timeline.md)
 - [Proposal](/proposal.md)
+- [Code Samples](/codesamples.md)
 - [Bibliography](/bibliography.md)
--------
+
 
 
 | Feature                | Description                                                            | Priority | Implementer |
