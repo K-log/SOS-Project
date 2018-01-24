@@ -35,15 +35,15 @@
 ### Week 3
    Noah: Add title screen	Write script to make the title screen the same size regardless of the screen size		
    
-   Nauy: Add title screen	Write script to make the title screen link with other StartGame/Howtoplay/Quit/Credits	
+   Nauy: Add title screen	Write script to make the title screen link with other StartGame/Howtoplay/Quit/Credits/Backtomenu
    
    
    *Thing we have completed:*
-  success to link botton with different screen 
+  success to link all screen with other 
   
   
   *Issues we have run into:*
- obj and some funtion that will not allow when complite the code and understand of link different screen to other screen 
+ obj and some funtion that will not allow when complite the code and understand of link different screen to other screen depend on the number that screen have been created
   
 
 ### Week 4
