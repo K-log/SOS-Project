@@ -150,13 +150,30 @@ Week 3
 
 add script to make the title screen link with other StartGame/Howtoplay/Quit/Credits
 
-using UnityEngine.SceneManagement;
 
-public class ButtonManager : MonoBehaviour {
+    using UnityEngine.SceneManagement;
+
+    public class ButtonManager : MonoBehaviour {
 
     public void STARTGAME()
     {
         SceneManager.LoadScene(1); // for the start game 
+    }
+        public void CREDITS()
+    {
+        SceneManager.LoadScene(2);
+    }
+
+    public void HOWTOPLAY()
+    {
+        SceneManager.LoadScene(3);
+
+    }
+
+    public void QUITGAME()
+    {
+        Debug.Log("QUIT");
+        Application.Quit();
     }
 }
 
