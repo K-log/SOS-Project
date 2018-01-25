@@ -13,9 +13,6 @@ Webresources:
 https://unity3d.com/learn
 
 
-Articles:
+Books:
 ----
-
-
-Papers:
-----
+Learning Unity 2D Game Development by Example, By Venita Pereira
