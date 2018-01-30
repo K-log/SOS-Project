@@ -25,6 +25,8 @@ Get started on the movement system.
   * Make the movement animations.
   * Our game will be an RPG so combat and movement will be a big focus of what we are creating.
   * Because of this we will get to work on these features first as getting them right may take the longest amount of time.
+  * Add wall and double jumping.
+  * Special movement abilities like dashing, dodging, crouching etc.
 
 Week 3
 ----
@@ -32,6 +34,12 @@ Get started on the combat system.
   * Make the combat combat animations.
   * Make the combat feel responsive and get the weapon collision working
   * Add basic enemies to test with(Just sprites that can be hit and provide debug info)
+
+Week 4
+----
+Finish the started combat and movement systems.
+  * Get both the combat and movement systems fully running so we can move on to game content.
+Work on camera movement movement. Add a camera style similar to marior where there is a buffer when you get close to the edge of the screen before the camera begins to recenter around you
 
 Week 5
 ----
