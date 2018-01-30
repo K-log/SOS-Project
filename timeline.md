@@ -16,4 +16,5 @@
 | Add title screen       | Write script to make the title screen the same size regardless of the screen size| High   | Noah
 | Add title screen       | Write script to make the title screen link with other StartGame/Howtoplay/Quit/Credits| High   | Nauy
 | Link title screen      | Write script to link all menu screen with other including back button to jumb back to main menu| High   | Nauy
+| Camera Follow player      | Write script to set the camera follow the player| Medium  | Nauy
 
