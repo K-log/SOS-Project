@@ -2,6 +2,7 @@ Nauy and Noah's SOS Project
 ----
 - [**Home**](/README.md)
 - [Journal](/journal.md)
+- [Features](/features.d)
 - [Timeline](/timeline.md)
 - [Proposal](/proposal.md)
 - [Code Samples](/codesamples.md)
