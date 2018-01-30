@@ -47,8 +47,17 @@
   
 
 ### Week 4
-    To Be Completed!
-
+    Noah: 
+   
+   Nauy: Script for camera follow player 
+   
+   
+   *Thing we have completed:*
+  success to link set camera follow player movement
+  
+  
+  *Issues we have run into:*
+ 
 ### Week 5
     To Be Completed!
 
