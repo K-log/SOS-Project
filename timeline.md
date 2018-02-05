@@ -39,7 +39,7 @@ Week 4
 ----
 Finish the started combat and movement systems.
   * Get both the combat and movement systems fully running so we can move on to game content.
-Work on camera movement movement. Add a camera style similar to marior where there is a buffer when you get close to the edge of the screen before the camera begins to recenter around you
+Work on camera movement movement. Add a camera style similar to mario where there is a buffer when you get close to the edge of the screen before the camera begins to recenter around you
 
 Week 5
 ----
