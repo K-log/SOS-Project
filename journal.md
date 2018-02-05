@@ -42,12 +42,26 @@
   
   
   *Issues we have run into:*
- - [ ] The player follow camera is not as precise as we would like and needs some minor adjustments.
- - [ ] We need to clean up our project working directory and start moving away from doing all our testing in the working directory as we begin to add more perminent elements to the base game components.
+  - [x] The player follow camera is not as precise as we would like and needs some minor adjustments.
+  - [ ] We need to clean up our project working directory and start moving away from doing all our testing in the working directory as we begin to add more perminent elements to the base game components.
   
 
 ### Week 4
-    To Be Completed!
+  Noah: Added movement; Walking left and right and jumping. Made the player follow camera faster.
+    
+  Nauy: Added Completed start screen and started basic UI setup. Fixed a bug in the player follow camera.
+    
+  *Things we have completed:*
+    - Successfully completed player walking left and right and player jumping.
+    - Successfully completed the start screen.
+    
+  *Issues we have run into:*
+  - [ ] We broke the animation system while getting the movement to work so that needs to be fixed.
+  - [ ] Wall and double jumping still needs to be fixed. Currently wall jumping semi works but it still has a ways to go.
+  - [ ] We need to optimize the code to make it more responsive.
+    
+    
+    
 
 ### Week 5
     To Be Completed!
