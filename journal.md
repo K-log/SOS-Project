@@ -53,7 +53,7 @@
     
   *Things we have completed:*
     - Successfully completed player walking left and right and player jumping.
-    - Successfully completed the start screen.
+    - Successfully completed the menu and start screen.
     
   *Issues we have run into:*
   - [ ] We broke the animation system while getting the movement to work so that needs to be fixed.
