@@ -22,3 +22,4 @@
 | Camera Follow player   | Write script to set the camera follow the player                       | Medium   | Nauy        |  Yes
 | Add jumping mechanics  | Add better jumping mechanics to test player and change the way gravity effects the player | Medium | Noah |
 | Add wall Jumping       | Add wall jumping mechanics to the test player                          | Mdium   | Noah 
+| Testing Enemy follow player       | script testing on enemy that chasing the player                          | Mdium   | Nauy
