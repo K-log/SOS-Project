@@ -9,7 +9,5 @@ Nauy and Noah's SOS Project
 - [Bibliography](/bibliography.md)
 
 
-We will be making a 2D topdown game in Unity.
-
-This is our project's weekly journal.
+We will be making a 2D sidecroller in Unity.
 
