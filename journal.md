@@ -67,6 +67,8 @@
   Noah: 
     
   Nauy: Added script for player health bar/ enemy attacking or touching player and player health bar will drop 
+  
+  
   *Things we have completed:*
     - Successfully completed enemy follow attack script and player health bar 
     - Successfully completed the menu and start screen.
