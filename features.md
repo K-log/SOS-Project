@@ -23,3 +23,5 @@
 | Add jumping mechanics  | Add better jumping mechanics to test player and change the way gravity effects the player | Medium | Noah |
 | Add wall Jumping       | Add wall jumping mechanics to the test player                          | Medium   | Noah 
 | Testing Enemy follow player       | script testing on enemy that chasing the player                          | Medium   | Nauy
+| Testing Enemy attack player and player health bar       | script testing on enemy that chasing and attacking the player with healthbar drop after each time get hit                          | Medium   | Nauy
+
