@@ -43,7 +43,7 @@
   
   *Issues we have run into:*
   - [x] The player follow camera is not as precise as we would like and needs some minor adjustments.
-  - [ ] We need to clean up our project working directory and start moving away from doing all our testing in the working directory as we begin to add more perminent elements to the base game components.
+  - [x] We need to clean up our project working directory and start moving away from doing all our testing in the working directory as we begin to add more perminent elements to the base game components.
   
 
 ### Week 4
@@ -56,25 +56,29 @@
     - Successfully completed the menu and start screen.
     
   *Issues we have run into:*
-  - [ ] We broke the animation system while getting the movement to work so that needs to be fixed.
+  - [x] We broke the animation system while getting the movement to work so that needs to be fixed.
   - [ ] Wall and double jumping still needs to be fixed. Currently wall jumping semi works but it still has a ways to go.
-  - [ ] We need to optimize the code to make it more responsive.
+  - [x] We need to optimize the code to make it more responsive.
     
     
     
 
 ### Week 5
-  Noah: 
+  Noah: Rewrote te entire movement system and found some premade assets to test it with.
     
-  Nauy: Added script for player health bar/ enemy attacking or touching player and player health bar will drop 
+  Nauy: Added script for player health bar/ enemy attacking or touching player and player health bar will drop. 
   
   
   *Things we have completed:*
-    - Successfully completed enemy follow attack script and player health bar 
-    - Successfully completed the menu and start screen.
-    
+  
+   - Successfully completed enemy follow attack script and player health bar. 
+   - Successfully completed the menu and start screen.
+   - Successfully got the movement more responsive so there is no more lag or jiter in the controls.    
+  
   *Issues we have run into:*
-
+  - [ ] Minor issues with wall jumping needing to be fixed to work with the new player movement script.
+  - [ ] About a week or two behind schedule but now that the code has been cleaned up it should be easier to make more progress.
+    
 ### Week 6
     To Be Completed!
 
