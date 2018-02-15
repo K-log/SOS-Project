@@ -52,9 +52,9 @@ Add the UI system for the game.
 
 Week 6 
 ----
-Begin addig features to the final game project.
-  * Once the combat and movement systems are completed, create a simple first level and add the player.
-  * Combine all working features we have so far.
+Begin adding features to the final game project.
+ * Once the combat and movement systems are completed, create a simple first level and add the player.
+ * Combine all working features we have so far.
 
 Week 7
 ----
