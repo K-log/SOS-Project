@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Ground
+  - Wall
+  - Enemies
   - 
   - 
   - 
@@ -52,4 +52,7 @@ TagManager:
     locked: 0
   - name: UI
     uniqueID: 2058349491
+    locked: 0
+  - name: wall
+    uniqueID: 1129495897
     locked: 0
