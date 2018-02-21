@@ -57,7 +57,7 @@
     
   *Issues we have run into:*
   - [x] We broke the animation system while getting the movement to work so that needs to be fixed.
-  - [ ] Wall and double jumping still needs to be fixed. Currently wall jumping semi works but it still has a ways to go.
+  - [x] Wall and double jumping still needs to be fixed. Currently wall jumping semi works but it still has a ways to go.
   - [x] We need to optimize the code to make it more responsive.
     
     
@@ -76,7 +76,7 @@
    - Successfully got the movement more responsive so there is no more lag or jiter in the controls.    
   
   *Issues we have run into:*
-  - [ ] Minor issues with wall jumping needing to be fixed to work with the new player movement script.
+  - [x] Minor issues with wall jumping needing to be fixed to work with the new player movement script.
   - [ ] About a week or two behind schedule but now that the code has been cleaned up it should be easier to make more progress.
     
 ### Week 6
