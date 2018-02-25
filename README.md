@@ -9,5 +9,5 @@ Nauy and Noah's SOS Project
 - [Bibliography](/bibliography.md)
 
 
-We will be making a 2D sidecroller in Unity.
+We will be making a 2D platformer in Unity.
 
