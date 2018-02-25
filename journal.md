@@ -79,7 +79,7 @@
   - [x] Minor issues with wall jumping needing to be fixed to work with the new player movement script.
   - [x] About a week or two behind schedule but now that the code has been cleaned up it should be easier to make more progress.
     
-### Week 7 and Week 6
+### Week 6 and Week 7
   Noah: Finished rebuilding the player movement system and built a test level and started on creating some assets for the player. Cleaned up the project again. Added a lot of documentation to the scripts.
   Nauy:
   
