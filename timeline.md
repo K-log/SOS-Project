@@ -77,6 +77,6 @@ Swap out the prototype level design for what will hopefully be our level.
 
 Week 10
 ----
-Bug testing and playe testing.
+Bug testing and play testing.
   * Hopefully we will have time to remove any bugs that come up.
   * We would like to spend the week getting everything feeling right such as difficulty, controls, story with the help of play testers. 
