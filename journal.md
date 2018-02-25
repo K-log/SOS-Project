@@ -84,10 +84,11 @@
   Nauy:
   
   *Things we have completed:*
-    - Player Movement is finally done. This includes: Walking, Jumping, Longjumping, WallJumping, Crouching, and Running.
-    - We have a temporary camera follow script working.
-    - Reorganized the project in such a way as to make future work go a lot faster.( Just broke everything up into smaller, more modular, scripts.
-    - Added a lot of documentation to the scripts to make it easier to go back and continue working on them.
+  
+   - Player Movement is finally done. This includes: Walking, Jumping, Longjumping, WallJumping, Crouching, and Running.
+   - We have a temporary camera follow script working.
+   - Reorganized the project in such a way as to make future work go a lot faster.( Just broke everything up into smaller, more modular, scripts.
+   - Added a lot of documentation to the scripts to make it easier to go back and continue working on them.
     
    *Issues we have run into:*
    - [ ] Now only a week behind. 
