@@ -15,6 +15,8 @@ Builds
 ---
 Movement test build: https://simmer.io/@KLog/~67f1d82f-6497-285b-ee0c-445cfc94ee92
 
+use A and D to move left or right. Space to jump
+
 <html>
   
 <iframe src="https://c.simmer.io/static/unityFrame/index.html?url=https%3A%2F%2Fsimmercdn.com%2Funity%2FYRbqrOnGtBYrd0LsyGZHCDNKL082%2Fcontent%2F67f1d82f-6497-285b-ee0c-445cfc94ee92&imagePath=screens/3.png" style="width:960px;height:600px;border:0"></iframe>
