@@ -1,13 +1,7 @@
 Nauy and Noah's SOS Project
 ----
-- [**Home**](/README.md)
-- [Journal](/journal.md)
-- [Features](/features.d)
-- [Timeline](/timeline.md)
-- [Proposal](/proposal.md)
-- [Code Samples](/codesamples.md)
-- [Bibliography](/bibliography.md)
 
+https://k-log.github.io/SOS-Project/
 
 We will be making a 2D platformer in Unity.
 
