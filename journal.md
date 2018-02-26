@@ -66,7 +66,7 @@
 ### Week 5
   Noah: Rewrote the entire movement system and found some premade assets to test it with.
     
-  Nauy: Added script for player health bar/ enemy attacking or touching player and player health bar will drop. 
+  Nauy: Added script for player health bar/ enemy chasing player 
   
   
   *Things we have completed:*
@@ -81,7 +81,7 @@
     
 ### Week 6 and Week 7
   Noah: Finished rebuilding the player movement system and built a test level and started on creating some assets for the player. Cleaned up the project again. Added a lot of documentation to the scripts.
-  Nauy:
+  Nauy: finished player health bar/ enemy chasing player now attacking( or touching player) and health bar will drop also with some traps that every time player hit the trap it will cost damage to health bar
   
   *Things we have completed:*
   
@@ -94,6 +94,7 @@
    - [ ] Now only a week behind. 
    - [ ] Camera follow script works but needs some tweaking so it doesnt show things that are off the screen.
    - [ ] The player assets need a lot of work.
+   - [ ] The emeny and trap really need to have cool downtime after each attack(touch)
 
 ### Week 8
     To Be Completed!
