@@ -5,12 +5,14 @@ using UnityEngine;
 public class PhysicsObject : MonoBehaviour {
 
     public float minGroundNormalY = 0.65f;
-    public float minWallNormalX = 0.65f;
+    public float minWallNormalX = 0.85f;
     public float gravityModifier = 1f;
 
     protected Vector2 targetVelocity;
     protected bool grounded;
     protected bool walled;
+    protected bool canDoubleJump;
+    protected Vector2 wallNormalTest;
     protected Vector2 groundNormal;
     protected Vector2 wallNormal;
     protected Rigidbody2D rb2d;
@@ -52,6 +54,8 @@ public class PhysicsObject : MonoBehaviour {
         velocity.x = targetVelocity.x;
 
         grounded = false;
+        walled = false;
+        canDoubleJump = false;
 
         Vector2 deltaPosition = velocity * Time.deltaTime;
 
@@ -84,25 +88,40 @@ public class PhysicsObject : MonoBehaviour {
             {
                 Vector2 currentNormal = hitBufferList[i].normal;
                 Debug.DrawLine(hitBufferList[i].point, transform.Find("GroundDebug").position, color: Color.red, duration: 1, depthTest: false);
-                Debug.Log(hitBufferList[i].point);
-                Debug.Log(transform.Find("GroundDebug").position);
-                if (currentNormal.y > minGroundNormalY) // Jumping off of a horizontal(ground) plane.
+
+                Debug.Log("------------Player Collision Ground------------");
+                Debug.Log("Ground Hit: " + hitBufferList[i].point);
+                Debug.Log("Player Pos: " + transform.Find("GroundDebug").position);
+                Debug.Log("Current Normal" + currentNormal.y + " " + currentNormal.x);
+                Debug.Log("--------------------------------------");
+
+                Debug.Log(Vector2.Dot(hitBufferList[i].point, wallNormalTest));
+
+                if (Vector2.Dot(hitBufferList[i].point, wallNormalTest) < 0)
                 {
-                    grounded = true;
-                    if (yMovement)
-                    {
-                        groundNormal = currentNormal;
-                        currentNormal.x = 0;
-                    }
+                    canDoubleJump = true;
                 }
 
-                if (currentNormal.y > minWallNormalX) // Jumping off of a vertical(wall) plane.
-                {
-                    walled = true;
-                    if (yMovement)
-                    {
 
-                    }
+                if (currentNormal.y > minGroundNormalY) // Jumping off of a horizontal(ground) plane.
+                {
+                        grounded = true;
+                        canDoubleJump = true;
+                        if (yMovement)
+                        {
+                            groundNormal = currentNormal;
+                            currentNormal.x = 0;
+                        }
+                }
+                else if (currentNormal.x > minWallNormalX && !grounded && canDoubleJump) // Jumping off of a vertical(wall) plane.
+                {
+                        walled = true;
+                        if (yMovement)
+                        {
+                            wallNormalTest = hitBufferList[i].point;
+                            wallNormal = currentNormal;
+                            currentNormal.y = 0;
+                        }
                 }
 
                 float projection = Vector2.Dot(velocity, currentNormal);
