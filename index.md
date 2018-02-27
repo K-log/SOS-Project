@@ -22,9 +22,9 @@ Movement test build: https://simmer.io/@KLog/~67f1d82f-6497-285b-ee0c-445cfc94ee
 </html>
 
 
-Controls: <br>
-  - Walk: Right/Left Arrows and A/D Keys <br>
-  - Run: Left Shift <br>
-  - Crouch: Left Control <br>
-  - Jump: Space <br> 
+**Controls:** <br>
+  Walk: Right/Left Arrows and A/D Keys <br>
+  Run: Left Shift <br>
+  Crouch: Left Control <br>
+  Jump: Space <br> 
 
