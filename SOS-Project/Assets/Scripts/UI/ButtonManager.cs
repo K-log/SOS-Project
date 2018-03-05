@@ -7,17 +7,17 @@ public class ButtonManager : MonoBehaviour {
 
     public void STARTGAME()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("Setup");
     }
 
     public void CREDITS()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene("Credits Scene");
     }
 
     public void HOWTOPLAY()
     {
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene("HowTo Scene");
 
     }
 
