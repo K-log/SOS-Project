@@ -91,16 +91,18 @@
    - Added a lot of documentation to the scripts to make it easier to go back and continue working on them.
     
    *Issues we have run into:*
-   - [ ] Now only a week behind. 
+   - [x] Now only a week behind. 
    - [ ] Camera follow script works but needs some tweaking so it doesnt show things that are off the screen.
    - [ ] The player assets need a lot of work.
-   - [ ] The emeny and trap really need to have cool downtime after each attack(touch)
+   - [ ] The emeny and trap really needs to have cool downtime after each attack(touch)
 
 ### Week 8
-    To Be Completed!
+    Noah: Found and started using the program Tiled to make the map instead of the default usinity editor. Fixed a health bar issue     where they wouldnt have appeared on different resolution screens.
+    Nauy: Working on adding player enemies as well as Objects within the game world.
 
 ### Week 9
-    To Be Completed!
+    Noah: Done some design work on player character concept art and various items as well as started research on how to implement the player item system.
+    Nauy: Did some finishing work as I will be leaving sos this quarter so Noah can continue on with the project on his own.
 
 ### Week 10
     To Be Completed!
