@@ -81,6 +81,7 @@
     
 ### Week 6 and Week 7
   Noah: Finished rebuilding the player movement system and built a test level and started on creating some assets for the player. Cleaned up the project again. Added a lot of documentation to the scripts.
+  
   Nauy: finished player health bar/ enemy chasing player now attacking( or touching player) and health bar will drop also with some traps that every time player hit the trap it will cost damage to health bar
   
   *Things we have completed:*
@@ -98,10 +99,12 @@
 
 ### Week 8
    Noah: Found and started using the program Tiled to make the map instead of the default usinity editor. Fixed a health bar issue     where they wouldnt have appeared on different resolution screens.
+   
    Nauy: Working on adding player enemies as well as Objects within the game world.
 
 ### Week 9
    Noah: Done some design work on player character concept art and various items as well as started research on how to implement the player item system.
+   
    Nauy: Did some finishing work as I will be leaving sos this quarter so Noah can continue on with the project on his own.
 
 ### Week 10
