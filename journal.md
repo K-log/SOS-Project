@@ -106,6 +106,11 @@
    Noah: Done some design work on player character concept art and various items as well as started research on how to implement the player item system.
    
    Nauy: Did some finishing work as I will be leaving sos this quarter so Noah can continue on with the project on his own.
-
+   
+   
+   *Issues we have run into.*
+   - [ ] The map editor we were using hasnt been working so Noah is building a new one from scratch in unity
+   - [ ] The map is broken so now we have a game but no map
+   - [ ] Still need to add player items and combat
 ### Week 10
     To Be Completed!
