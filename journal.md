@@ -112,5 +112,6 @@
    - [ ] The map editor we were using hasnt been working so Noah is building a new one from scratch in unity
    - [ ] The map is broken so now we have a game but no map
    - [ ] Still need to add player items and combat
+   
 ### Week 10
-    To Be Completed!
+   Noah: Focused mainly on completeing other work in SOS but got a little more done with the level editor. Started writing next quarters timeline.
