@@ -6,6 +6,7 @@ public class WallJump : AbstractBehavior {
 
     public Vector2 jumpVelocity = new Vector2(50, 200);
     public bool jumpingOffWall;
+    public bool currentJumpDir;
     public float resetDelay = 0.2f;
 
     private float timeElapsed = 0;
@@ -13,7 +14,7 @@ public class WallJump : AbstractBehavior {
 	// Update is called once per frame
 	void Update () {
 
-        if (collisionState.onWall && !collisionState.standing) {
+        if (collisionState.onWall && (currentJumpDir != collisionState.collideDir) && !collisionState.standing) {
 
             bool canJump = inputState.GetButtonValue(inputButtons[0]);
 
@@ -23,6 +24,8 @@ public class WallJump : AbstractBehavior {
 
                 ToggleScripts(false);
                 jumpingOffWall = true;
+
+                currentJumpDir = collisionState.collideDir;
             }
         }
 
