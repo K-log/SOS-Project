@@ -7,8 +7,7 @@
 - [Bibliography](/bibliography.md)
 
 
-*Features are added to the table as they are encountered and completed so that we don't end up trying to implement too many things at the same time.*
-
+*THIS TABLE IS NO LONGER BEING USED*
 
 | Feature                | Description                                                            | Priority | Implementer | Completed |
 |------------------------|------------------------------------------------------------------------|----------|-------------|-----------|
