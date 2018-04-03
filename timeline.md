@@ -10,6 +10,7 @@
 The basic idea for our timeline is to spend the first half of the project work creating and testing components and features to go in our game. Then the second half we will take those features and implement them into our finished game.
 Each item in this schedule is planned to be started the week it is shown and if all goes to plan, finished by the end of that week. If a feature can not be finished by the end of the week then we will continue working on it until it is a usable state BEFORE starting on the next weeks features.
 
+# Winter
 
 Week 1
 ----
@@ -73,10 +74,57 @@ Week 9
 ----
 Swap out the prototype level design for what will hopefully be our level.
   * Add scripting to level components where needed.
-      * Make moving objects move, breakably objects break etc.
+      * Make moving objects move, breakable objects break etc.
 
 Week 10
 ----
 Bug testing and play testing.
   * Hopefully we will have time to remove any bugs that come up.
   * We would like to spend the week getting everything feeling right such as difficulty, controls, story with the help of play testers. 
+  
+# Spring
+
+As week got fairly behind when we thought we would be at this point, there may be some duplicate things in the spring section of the timeline that were not completed in the winter.
+
+Week 1
+----
+Build the first level.
+   * This involves figuring out how the level should flow, what enemies to be added what features should be in it.
+   * I also need to create tiles to build the level out of and as I'm not very good at art this could take a while.
+    
+Week 2
+----
+Finish the combat system. So far I have a health and mana bar as well as a basic enemy system and movement. The enemy system consists of just have the enemies be drawn to the player with no regard for obstacles in the way.
+    
+Week 3
+----
+    To be completed!
+    
+Week 4
+----
+    To be completed!
+    
+Week 5
+----
+    To be completed!
+    
+Week 6 
+----
+    To be completed!
+    
+Week 7
+----
+    To be completed!
+    
+Week 8 
+----
+    To be completed!
+    
+Week 9
+----
+    To be completed!
+    
+Week 10
+----
+    To be completed!
+   
