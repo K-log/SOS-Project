@@ -7,6 +7,9 @@
 - [Bibliography](/bibliography.md)
 
 
+Winter
+---
+
 ### Week 1
   Nauy: Create the player movement animations which include include walking Left/Right/Back/Front.
 
@@ -109,9 +112,32 @@
    
    
    *Issues we have run into.*
-   - [ ] The map editor we were using hasnt been working so Noah is building a new one from scratch in unity
-   - [ ] The map is broken so now we have a game but no map
-   - [ ] Still need to add player items and combat
+   - [x] The map editor we were using hasnt been working so Noah is building a new one from scratch in unity.
+   - [x] The map is broken so now we have a game but no map.
+   - [ ] Still need to add player items and combat.
    
 ### Week 10
    Noah: Focused mainly on completeing other work in SOS but got a little more done with the level editor. Started writing next quarters timeline.
+
+
+
+Spring
+---
+Nauy has left the program so I will continue working on the project by myself.
+
+
+### Week 1
+ - Updated the wall jumping mechanic so now the player has to jump between two walls as opposed to just being able to jump up a single wall.
+ - Created a new level.
+ - Started work on a new dash movement ability and on creating character assets.
+
+
+### Week 2
+### Week 3
+### Week 4
+### Week 5
+### Week 6
+### Week 7
+### Week 8
+### Week 9
+### Week 10
