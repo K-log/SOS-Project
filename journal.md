@@ -127,10 +127,11 @@ Nauy has left the program so I will continue working on the project by myself.
 
 
 ### Week 1
- - Updated the wall jumping mechanic so now the player has to jump between two walls as opposed to just being able to jump up a single wall.
+ - ~~Updated the wall jumping mechanic so now the player has to jump between two walls as opposed to just being able to jump up a single wall.~~
  - Created a new level.
  - Started work on a new dash movement ability and on creating character assets.
-
+ - Added debug character animation for wall slide.
+ 
 
 ### Week 2
 ### Week 3
