@@ -23,7 +23,7 @@ Movement test build: https://simmer.io/@KLog/~67f1d82f-6497-285b-ee0c-445cfc94ee
 
 <html>
   
-<iframe src="https://c.simmer.io/static/unityFrame/index.html?url=https%3A%2F%2Fsimmercdn.com%2Funity%2FYRbqrOnGtBYrd0LsyGZHCDNKL082%2Fcontent%2F67f1d82f-6497-285b-ee0c-445cfc94ee92&imagePath=screens/3.png" style="width:960px;height:600px;border:0"></iframe>
+<iframe src="https://c.simmer.io/static/unityFrame/index.html?url=https%3A%2F%2Fsimmercdn.com%2Funity%2FYRbqrOnGtBYrd0LsyGZHCDNKL082%2Fcontent%2F67f1d82f-6497-285b-ee0c-445cfc94ee92&imagePath=screens/3.png" style="width:960px;height:600px;border:3"></iframe>
 
 </html>
 
@@ -31,5 +31,5 @@ Movement test build: https://simmer.io/@KLog/~67f1d82f-6497-285b-ee0c-445cfc94ee
  Test level Build: https://simmer.io/@KLog/~8491e993-497a-3b63-6654-82c1ce4f9392
  
 <html>
-<iframe src="https://c.simmer.io/static/unityFrame/index.html?url=https%3A%2F%2Fsimmercdn.com%2Funity%2FYRbqrOnGtBYrd0LsyGZHCDNKL082%2Fcontent%2F8491e993-497a-3b63-6654-82c1ce4f9392&imagePath=screens/0.png" style="width:600px;height:300px;border:0"></iframe>
+<iframe src="https://c.simmer.io/static/unityFrame/index.html?url=https%3A%2F%2Fsimmercdn.com%2Funity%2FYRbqrOnGtBYrd0LsyGZHCDNKL082%2Fcontent%2F8491e993-497a-3b63-6654-82c1ce4f9392&imagePath=screens/0.png" style="width:960px;height:300px;border:3"></iframe>
 </html>
