@@ -1,4 +1,4 @@
-- [Home](/index.md)
+- [Home](/README.md)
 - [Journal](/journal.md)
 - [Features](/features.md)
 - [**Timeline**](/timeline.md)
