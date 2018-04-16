@@ -7,6 +7,8 @@
 - [Bibliography](/bibliography.md)
 
 
+# This page is no longer being maintained due the constant changes to the codebase, it would be too difficult to constantly be adding new samples of code to this page to illustrate how we are doing things
+
 
 Week 1 
 The two ways we are potentially using to move the player. We have not decided which one we prefer yet. 
