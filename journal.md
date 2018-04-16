@@ -134,6 +134,10 @@ Nauy has left the program so I will continue working on the project by myself.
  
 
 ### Week 2
+  - Created a new player character! *Thanks to Michelle(Hope I spelled this right) for all their help with Photoshop*!
+  - The new level I created the week before in now too small for the new character so I will need to create a new one.
+  - All the animations are broken due to the new character so those need to be fixed too.
+  - The new character is awsome!!!
 ### Week 3
 ### Week 4
 ### Week 5
