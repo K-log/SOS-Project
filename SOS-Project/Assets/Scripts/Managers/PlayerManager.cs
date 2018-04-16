@@ -39,7 +39,7 @@ public class PlayerManager : MonoBehaviour {
         }
 
         if (!collisionState.standing && collisionState.onWall) { // Stick to wall animation
-            // ChangeAnimationState(4); Animation state does not exist yet
+            ChangeAnimationState(4); 
             Debug.Log("Playing stick on wall animation");
         }
     }

@@ -32,7 +32,7 @@ public class Crouch : AbstractBehavior {
 
         if (crouching) {
             sizeReciprocal = scale;
-            newOffsetY = circleCollider.offset.y - size / 2 + centerOffsetY;
+            newOffsetY = circleCollider.offset.y - size / 4 + centerOffsetY;
         }
         else {
             sizeReciprocal = 1 / scale;

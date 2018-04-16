@@ -29,7 +29,7 @@ public class LongJump : Jump {
 
         base.Update(); // Call the parent class update code. Normal jump and double jump
 
-        if (canLongJump && !collisionState.standing && holdTime > longJumpDelay) {
+        if (canLongJump && collisionState.standing && holdTime > longJumpDelay) {
             Vector2 vel = rb2d.velocity;
             rb2d.velocity = new Vector2(vel.x, jumpSpeed * longJumpMultiplier);
             canLongJump = false;

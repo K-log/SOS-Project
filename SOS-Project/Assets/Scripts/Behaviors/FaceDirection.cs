@@ -9,6 +9,7 @@ using UnityEngine;
 
 
 public class FaceDirection : AbstractBehavior {
+    public float localscale = 0.5f;
 
 	// Use this for initialization
 	void Start () {
