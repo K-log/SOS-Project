@@ -38,3 +38,10 @@ Improved movement and level: https://simmer.io/@KLog/~ce19524b-1d31-d5b1-0009-1a
 <html>
 <iframe src="https://c.simmer.io/static/unityFrame/index.html?url=https%3A%2F%2Fsimmercdn.com%2Funity%2FYRbqrOnGtBYrd0LsyGZHCDNKL082%2Fcontent%2Fce19524b-1d31-d5b1-0009-1afa9f1cb1cb&imagePath=screens/4.png" style="width:960px;height:600px;border:3"></iframe>
 </html>
+
+
+Improved animations and graphics: https://simmer.io/@KLog/~8f62d585-faba-10a3-4e83-819a3e094b4f
+
+<html>
+<iframe src="https://c.simmer.io/static/unityFrame/index.html?url=https%3A%2F%2Fsimmercdn.com%2Funity%2FYRbqrOnGtBYrd0LsyGZHCDNKL082%2Fcontent%2F8f62d585-faba-10a3-4e83-819a3e094b4f&imagePath=screens/1.png" style="width:900px;height:600px;border:0"></iframe>
+</html>
