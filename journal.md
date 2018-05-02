@@ -128,9 +128,9 @@ Nauy has left the program so I will continue working on the project by myself.
 
 ### Week 1
  - ~~Updated the wall jumping mechanic so now the player has to jump between two walls as opposed to just being able to jump up a single wall.~~
- - Created a new level.
+ - Created a new level using unity's tile map instead of the custom one I will building (Tilemap support was added to unity in one of the more recent version hence the reason I was working on building a tilemap).
  - Started work on a new dash movement ability and on creating character assets.
- - Added debug character animation for wall slide.
+ - Added debug character animation for wall slide where the debug player now shows which side of it is touching a wall.
  
 
 ### Week 2
@@ -139,13 +139,15 @@ Nauy has left the program so I will continue working on the project by myself.
   - All the animations are broken due to the new character so those need to be fixed too.
   
 ### Week 3
-  - Fixed all the animations so now they are all fully functional again. 
-  - remade the test level to better suit the new player character.
+  - Fixed all the animations so now they are all fully functional again. Walk, Jump, Idle, Wallslide all work now with the new player assets but crouch still needs to be fixed although due to the nature of how the crouch behavior was coded I may leave it out. 
+  - remade the test level to better suit the new player character. It is now much bigger and doesn't feel as cramped.
   - Added a sword for the player character.
   - Now working on getting combat animations to work.
  
 ### Week 4
-  - Figured out how to do most of the combat for the player so now just working on making all the player's combat animations
+  - Figured out how to do most of the combat for the player so now just working on making all the player's combat animations. 
+  - I haven't figured out a simple way to added a sword to the preexisting animations so I will essentially be copy and pasting all the animations and adding a sword to them.
+  - I have decided to leave the dash ability for later as combat is more important at the moment.
 ### Week 5
 ### Week 6
 ### Week 7
