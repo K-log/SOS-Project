@@ -145,6 +145,7 @@ Nauy has left the program so I will continue working on the project by myself.
   - Now working on getting combat animations to work.
  
 ### Week 4
+  - Figured out how to do most of the combat for the player so now just working on making all the player's combat animations
 ### Week 5
 ### Week 6
 ### Week 7
