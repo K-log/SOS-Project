@@ -139,6 +139,11 @@ Nauy has left the program so I will continue working on the project by myself.
   - All the animations are broken due to the new character so those need to be fixed too.
   
 ### Week 3
+  - Fixed all the animations so now they are all fully functional again. 
+  - remade the test level to better suit the new player character.
+  - Added a sword for the player character.
+  - Now working on getting combat animations to work.
+ 
 ### Week 4
 ### Week 5
 ### Week 6
