@@ -149,6 +149,13 @@ Nauy has left the program so I will continue working on the project by myself.
   - I haven't figured out a simple way to added a sword to the preexisting animations so I will essentially be copy and pasting all the animations and adding a sword to them.
   - I have decided to leave the dash ability for later as combat is more important at the moment.
 ### Week 5
+  - While searching for an efficient way to do combat animation I stumbled on a simpler way to do animations all together. Anima2d is an asset package for Unity that allows you to build bones and rigging for sprite based characters and then allows you to menipulate them to create animations more easily and a lot quicker than having to move all the components around individually.
+  - I rigged and reanimated the character 
+  - Built a complete level that is about the size I'm aiming for for each level. 
+      - The Level also features some traps and a sword item to pickup.
+      - Will add enemies later
+  - Unfortunately when reanimating the character, it broke the movement a little so that now needs to be fixed but I believe I am much close to getting combat animations working.
+
 ### Week 6
 ### Week 7
 ### Week 8
