@@ -157,6 +157,15 @@ Nauy has left the program so I will continue working on the project by myself.
   - Unfortunately when reanimating the character, it broke the movement a little so that now needs to be fixed but I believe I am much close to getting combat animations working.
 
 ### Week 6
+  - Refactored the project to remove unnecessary clutter and left over assets from debugging and testing earlier in development.
+  - Fixed all the character animations so they work with the user's input.
+  - Changed some of the ways movement works:
+      - Now when the player is falling their horizontal movement is slowed.
+      - When jumping, the jump animation doesnt repeat and stops at the end until a new moement state occurs.
+      - Changed the gravity scale, jump height, movement speed to make the character slower and move easy to control.
+  - Fixed the main menu so now the back buttons are more easiy accessable.
+  - Added a script so now the hostile objects in the world can damage the player.
+  - Have now decided to make the character shoot lazers instead of using a sword.
 ### Week 7
 ### Week 8
 ### Week 9
