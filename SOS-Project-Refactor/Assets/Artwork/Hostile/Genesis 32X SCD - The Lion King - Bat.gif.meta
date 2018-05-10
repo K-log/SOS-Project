@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: fc27e4cdce3769b48aa19a35159d8c29
+timeCreated: 1517952451
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Genesis 32X SCD - The Lion King - Bat_0
+    21300002: Genesis 32X SCD - The Lion King - Bat_1
+    21300004: Genesis 32X SCD - The Lion King - Bat_2
+    21300006: Genesis 32X SCD - The Lion King - Bat_3
+    21300008: Genesis 32X SCD - The Lion King - Bat_4
+    21300010: Genesis 32X SCD - The Lion King - Bat_5
+    21300012: Genesis 32X SCD - The Lion King - Bat_6
+    21300014: Genesis 32X SCD - The Lion King - Bat_7
+    21300016: Genesis 32X SCD - The Lion King - Bat_8
+    21300018: Genesis 32X SCD - The Lion King - Bat_9
+    21300020: Genesis 32X SCD - The Lion King - Bat_10
+    21300022: Genesis 32X SCD - The Lion King - Bat_11
+    21300024: Genesis 32X SCD - The Lion King - Bat_12
+    21300026: Genesis 32X SCD - The Lion King - Bat_13
+    21300028: Genesis 32X SCD - The Lion King - Bat_14
+    21300030: Genesis 32X SCD - The Lion King - Bat_15
+    21300032: Genesis 32X SCD - The Lion King - Bat_16
+    21300034: Genesis 32X SCD - The Lion King - Bat_17
+    21300036: Genesis 32X SCD - The Lion King - Bat_18
+    21300038: Genesis 32X SCD - The Lion King - Bat_19
+    21300040: Genesis 32X SCD - The Lion King - Bat_20
+    21300042: Genesis 32X SCD - The Lion King - Bat_21
+    21300044: Genesis 32X SCD - The Lion King - Bat_22
+    21300046: Genesis 32X SCD - The Lion King - Bat_23
+    21300048: Genesis 32X SCD - The Lion King - Bat_24
+    21300050: Genesis 32X SCD - The Lion King - Bat_25
+    21300052: Genesis 32X SCD - The Lion King - Bat_26
+    21300054: Genesis 32X SCD - The Lion King - Bat_27
+    21300056: Genesis 32X SCD - The Lion King - Bat_28
+    21300058: Genesis 32X SCD - The Lion King - Bat_29
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 178
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 178
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 178
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 174
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 173
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 175
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 174
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 119
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 111
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 114
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 115
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 117
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 111
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 109
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 51
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 52
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 52
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 50
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_18
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 53
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 48
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_20
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 37
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_21
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 35
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 35
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_24
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 35
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_25
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 24
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_26
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 26
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_27
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_28
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Bat_29
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 26
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

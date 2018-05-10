@@ -22,6 +22,9 @@ public class Walk : AbstractBehavior {
         var left = inputState.GetButtonValue(inputButtons[1]);
         var run = inputState.GetButtonValue(inputButtons[2]);
 
+        Debug.Log("right: " + right);
+        Debug.Log("left: " + left);
+
         if (right || left) {
             float tempSpeed = walkSpeed;
 
