@@ -45,3 +45,11 @@ Improved animations and graphics: https://simmer.io/@KLog/~8f62d585-faba-10a3-4e
 <html>
 <iframe src="https://c.simmer.io/static/unityFrame/index.html?url=https%3A%2F%2Fsimmercdn.com%2Funity%2FYRbqrOnGtBYrd0LsyGZHCDNKL082%2Fcontent%2F8f62d585-faba-10a3-4e83-819a3e094b4f&imagePath=screens/1.png" style="width:900px;height:600px;border:0"></iframe>
 </html>
+
+
+Refactored the project: https://simmer.io/@KLog/~b228b470-5a7e-82e2-2bc1-cd9e18ef7bc2
+
+
+<html>
+<iframe src="https://c.simmer.io/static/unityFrame/index.html?url=https%3A%2F%2Fsimmercdn.com%2Funity%2FYRbqrOnGtBYrd0LsyGZHCDNKL082%2Fcontent%2Fb228b470-5a7e-82e2-2bc1-cd9e18ef7bc2&imagePath=screens/7.png" style="width:960px;height:600px;border:0"></iframe>
+</html>
