@@ -165,7 +165,9 @@ Nauy has left the program so I will continue working on the project by myself.
       - Changed the gravity scale, jump height, movement speed to make the character slower and move easy to control.
   - Fixed the main menu so now the back buttons are more easiy accessable.
   - Added a script so now the hostile objects in the world can damage the player.
-  - Have now decided to make the character shoot lazers instead of using a sword.
+  - Have now decided to make the character shoot projectiles instead of using a sword.
+  - Mana bar now goes down while shooting.
+  - Added an enemy that follows the player and damages them on each hit.
 ### Week 7
 ### Week 8
 ### Week 9
