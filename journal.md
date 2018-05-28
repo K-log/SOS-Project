@@ -169,6 +169,11 @@ Nauy has left the program so I will continue working on the project by myself.
   - Mana bar now goes down while shooting.
   - Added an enemy that follows the player and damages them on each hit.
 ### Week 7
+  - Mana bar and health regenerate while not shooting/being hurt
+  - There is now a semi-functional pause menu
+  - Enemies should now consistently hurt the player instead of just on first contact
 ### Week 8
+  - Finishing up and making sure the game is still playable as well as deciding which features to finish and which to remove if not completed.
+  - Collecting parts(code, screenshots, etc.) to use for final presentation. 
 ### Week 9
 ### Week 10
